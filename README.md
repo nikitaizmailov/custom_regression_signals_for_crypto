@@ -6,4 +6,4 @@
 - On a Test set RMSE and MAE around 30%
 
 ## Plotting Predicted vs Actual BTC price labels. You can notice that the model picks up the pattern and has good degree of accuracy.
-<img width="1094" alt="Screenshot 2022-05-23 at 11 08 13" src="https://user-images.githubusercontent.com/42198709/169773492-daada348-3a25-4ff9-b137-175ed0c3595e.png">
+<img width="1130" alt="Screenshot 2022-05-25 at 13 59 17" src="https://user-images.githubusercontent.com/42198709/170247314-b9c9f155-0d8d-4d30-b1aa-0315b4286229.png">
