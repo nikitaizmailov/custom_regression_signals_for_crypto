@@ -1,5 +1,6 @@
 # custom_regression_signals_for_crypto
 - A Machine Learning Regression Algorithm to generate trading signals for Crypto. Uses Binance API.
+- Uses 30 day window to predict next day price of Bitcoin. i.e. t-29, t-29... t0 = X input features, t1 = y target label.
 - Picked and Trained a RNN LSTM Regression model.
 - Optimized Loss Function via Hyperparameter tuning and optimizer.
 - On a Test set RMSE and MAE around 30%
